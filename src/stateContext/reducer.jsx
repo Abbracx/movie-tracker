@@ -5,12 +5,10 @@ export const initialState = {
 
 
 const reducer = (state, action)=> {
-    // console.log(action);
-    // console.log(state.favorites)
+   
     switch(action.type){
         case 'ADD_TO_FAVORITES':
-            console.log(state.favorites)
-            console.log(action.item.id)
+           
             const newIndex = state.favorites.findIndex((favoritesItem)=> favoritesItem.id === action.item.id);
             if(newIndex >=0){
                 console.log(...state.favorites)
