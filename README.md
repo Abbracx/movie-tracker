@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# movie-tracker-app
+https://tv-tracker-app.netlify.app/
+A responsive react based authenticated web application that enables a TMDB registered user do the following ;
+- Track his favorite TV shows.
+- Track TV watchlist.
+- Search for TV shows
+- Bookmark a movie (add to favorites).
+- Bookmark a movie (add to watchlist).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![header](https://user-images.githubusercontent.com/59098916/162641119-783872f1-8acd-4ca6-9ea5-eb03940ea104.png)
+![searchInput](https://user-images.githubusercontent.com/59098916/162641124-3527d683-a3a7-427e-a94d-af3303975b60.png)
+![favorites-card-view](https://user-images.githubusercontent.com/59098916/162641338-6682e222-aa88-4218-93ce-ea70d2aaeeb8.png)
 
-## Available Scripts
+![login-page-desktop-view](https://user-images.githubusercontent.com/59098916/162641170-f44cae8e-024d-45c9-810e-8de59bd2b011.png)
+![popular-card-view](https://user-images.githubusercontent.com/59098916/162641134-6a6a3897-f8ec-49b5-9861-b23e7499c912.png)
+![full-movie-details-view](https://user-images.githubusercontent.com/59098916/162641205-08af7b98-3171-42d9-be20-36e511cf0fbf.png)
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![full-movie-detail-tab-view](https://user-images.githubusercontent.com/59098916/162641193-e21e3b5d-e9b9-46c9-b1f8-227c565c3821.png)
+![search-and-favotites-tab-view](https://user-images.githubusercontent.com/59098916/162641217-4bd4061c-ec5a-4d23-b29c-15cf0191ba67.png)
+![full-movie-detail-mobile-view](https://user-images.githubusercontent.com/59098916/162641288-7617aa6c-29af-487e-b644-5dce2a4c90b1.png)
+![login-page-mobile-view](https://user-images.githubusercontent.com/59098916/162641303-ea19dce0-8cb8-4a12-8db2-ab6dc1567d21.png)
+![popular-mobile-view](https://user-images.githubusercontent.com/59098916/162641308-fc7d663f-aefe-421f-a34f-919f0d681654.png)
