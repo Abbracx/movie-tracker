@@ -1,5 +1,5 @@
 # movie-tracker-app
-https://tv-tracker-app.netlify.app/
+https://movie-tracker-topaz.vercel.app/
 A responsive react based authenticated web application that enables a TMDB registered user do the following ;
 - Track his favorite TV shows.
 - Track TV watchlist.
